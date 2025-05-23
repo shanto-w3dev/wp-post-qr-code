@@ -47,12 +47,6 @@ This plugin is licensed under the [GPL v2 or later](https://www.gnu.org/licenses
 
 ---
 
-### 📷 Screenshot
-
-*(Optional: Add a screenshot of the QR code on a single post if you're planning to submit this to the WordPress plugin repo.)*
-
----
-
 ### 💡 Notes
 
 - QR code is shown only on single post pages.
